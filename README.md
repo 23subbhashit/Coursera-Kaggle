@@ -1,4 +1,5 @@
-# Coursera-Kaggle
+# ML-Data-Science-competition-tips
+
 
 This repository is for some main things that everyone miss while preparing for some ml challenges.
 
